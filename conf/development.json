@@ -1,0 +1,17 @@
+{
+    "mysql": {
+        "host": "127.0.0.1",
+        "port": 23326,
+        "username": "test_rw",
+        "password": "",
+        "db_name": ""
+    },
+    "redis": {
+        "addr": "127.0.0.1:6379",
+        "password": "",
+        "db": 0,
+        "max_retries": 3
+    },
+
+    "debug": true
+}
